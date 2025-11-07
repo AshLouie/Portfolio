@@ -2,9 +2,13 @@
 ### Education
 ## University of Maryland, College of Information
 B.S. Information Science, Cybersecurity
+
 Department GPA: 3.82
+
 Anticipated Graduation - May 2026
+
 QUEST (Quality Enhancement Systems and Teams) Honors Program
+
 Dr. Marylin Berman Pollan's Women in Engineering (WIE) Living and Learning Program (Flexus)
 
 ## Relevant Coursework
