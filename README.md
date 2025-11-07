@@ -41,7 +41,8 @@ Dr. Marylin Berman Pollan's Women in Engineering (WIE) Living and Learning Progr
 - Agile
 
 ## Technical Projects 
-**Capital i Improving Pricing Process for Client Contracts** <br/>
+**Capital i Improving Pricing Process for Client Contracts**
+
 
 Part of interdisciplinary team that created a machine learning application for client contract pricing for customer, Capital i LLC. Conducted informational interviews and research to understand current processes, challenges, and C-suite needs. Completed data pre-processing of tens of thousands of lines of information. Used ECRI, a database of medical equipment information, to create pricing markers. Identified neural network as preferred approach to developing minimum viable product (MVP) due to its scalability and performance for project needs. Trained model using historical data to make accurate predictions using user-inputted variables. Final Deliverables included Final Results technical paper, MVP tool, and creation of process artifacts (e.g. status/milestone presentations, process flow diagrams, plotted results, etc.).
 
