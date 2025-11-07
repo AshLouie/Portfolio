@@ -42,25 +42,32 @@ Dr. Marylin Berman Pollan's Women in Engineering (WIE) Living and Learning Progr
 
 ## Technical Projects 
 **Capital i Improving Pricing Process for Client Contracts**
+
 Part of interdisciplinary team that created a machine learning application for client contract pricing for customer, Capital i LLC. Conducted informational interviews and research to understand current processes, challenges, and C-suite needs. Completed data pre-processing of tens of thousands of lines of information. Used ECRI, a database of medical equipment information, to create pricing markers. Identified neural network as preferred approach to developing minimum viable product (MVP) due to its scalability and performance for project needs. Trained model using historical data to make accurate predictions using user-inputted variables. Final Deliverables included Final Results technical paper, MVP tool, and creation of process artifacts (e.g. status/milestone presentations, process flow diagrams, plotted results, etc.).
 
 **Montgomery County Crime Database**
+
 Led team of four other students that designed and constructed a database utilizing data from the Montgomery County Crime Database. Used prior Python knowledge and abilities to clean and narrow down usable data. After identifying important attributes and applicable records, an Entity Relationship Diagram (ERD) was developed in MySQL Workbench. From there, various views and queries were created in order to identify patterns within the data chosen to populate the database. Final deliverables presented were a database report, a final ERD, a database creation script, and views and queries developed.
 
 **Airfare Data Customer Engagement Analysis Project**
+
 Part of cross‐functional team that collaborated with customer, Airfare Pouch, to increase customer engagement, retention, and conversion. Utilized Python to clean, sort, and analyze data sets from Google Analytics, Meta Business Suite, and Shopify, to establish recommendations for efficiencies and improvements. Used data cleaning techniques to find and remove unfinished/missing entries. Created heat maps to identify common customer demographics. Used Natural Language Processing to identify common positive correlations in the Airfare website pages. Created Linear Regression Models with various variables to identify independent and dependent variables common amongst the data rates. 
 
 ## Internship & Work Experience
 **Lavner Education - Intern/Instructor (_May June 2025 - August 2025_)**
+
 Delivered quality, educational instruction to students in a one-on-one environment across multiple STEM disciplines. Further developed programming capabilities and understanding while gaining meaningful STEM teaching and leadership experience. 
 
 **University of Maryland Challenge Course – Facilitator (_January 2025 - Present_)**
+
 Tasked with designing and running team-building activities/workshops to meet the goals of a given group. Enhanced existing soft skills while developing new program creation ideas and abilities. 
 
 **University of Maryland Golf Course – Golf Coach (_May 2024 - Present_)**
+
 Partnered with colleagues to run PGA Jr. League Golf program. Devised various practice activities and exercises for engagement and to hone program participants’ skills. 
 
 **Flexus Programming Board – Program Leader (_August 2022 - June 2022_)**
+
 Worked alongside five other student leaders to brainstorm and hold events each month for students a part of the Flexus and Virtus Living Learning Community. Developed various soft skills to facilitate successful events.
 
 **Terrapin Adventures, LLC – Guide (_June 2019 - January 2025_)**
