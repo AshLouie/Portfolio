@@ -41,17 +41,13 @@ Dr. Marylin Berman Pollan's Women in Engineering (WIE) Living and Learning Progr
 - Agile
 
 ## Technical Projects 
-**Capital i Improving Pricing Process for Client Contracts**
-
-
+**Capital i Improving Pricing Process for Client Contracts** <br/>
 Part of interdisciplinary team that created a machine learning application for client contract pricing for customer, Capital i LLC. Conducted informational interviews and research to understand current processes, challenges, and C-suite needs. Completed data pre-processing of tens of thousands of lines of information. Used ECRI, a database of medical equipment information, to create pricing markers. Identified neural network as preferred approach to developing minimum viable product (MVP) due to its scalability and performance for project needs. Trained model using historical data to make accurate predictions using user-inputted variables. Final Deliverables included Final Results technical paper, MVP tool, and creation of process artifacts (e.g. status/milestone presentations, process flow diagrams, plotted results, etc.).
 
 **Montgomery County Crime Database** <br/>
-
 Led team of four other students that designed and constructed a database utilizing data from the Montgomery County Crime Database. Used prior Python knowledge and abilities to clean and narrow down usable data. After identifying important attributes and applicable records, an Entity Relationship Diagram (ERD) was developed in MySQL Workbench. From there, various views and queries were created in order to identify patterns within the data chosen to populate the database. Final deliverables presented were a database report, a final ERD, a database creation script, and views and queries developed.
 
 **Airfare Data Customer Engagement Analysis Project** <br/>
-
 Part of cross‐functional team that collaborated with customer, Airfare Pouch, to increase customer engagement, retention, and conversion. Utilized Python to clean, sort, and analyze data sets from Google Analytics, Meta Business Suite, and Shopify, to establish recommendations for efficiencies and improvements. Used data cleaning techniques to find and remove unfinished/missing entries. Created heat maps to identify common customer demographics. Used Natural Language Processing to identify common positive correlations in the Airfare website pages. Created Linear Regression Models with various variables to identify independent and dependent variables common amongst the data rates. 
 
 ## Internship & Work Experience
