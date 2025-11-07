@@ -14,13 +14,13 @@ Anticipated Graduation - May 2026
 - INST326: Object-Oriented Programming
 
 ## Skills
-### Languages
+#### Languages
 - Python
 - R
 - SQL
 - C++
 
-### Software
+#### Software
 - MySQL Workbench
 - RStudio
 - Microsoft Office
