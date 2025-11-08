@@ -1,6 +1,6 @@
 # Information Scientist, Cybersecurity
-### Education
-## University of Maryland, College of Information
+## Education
+### University of Maryland, College of Information
 B.S. Information Science, Cybersecurity
 
 Department GPA: 3.82
