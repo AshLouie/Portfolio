@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
+title: Information Science
 ---
-
 ## Education
 **University of Maryland, College of Information**  
 B.S. Information Science, Cybersecurity  
