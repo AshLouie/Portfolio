@@ -35,7 +35,7 @@ Part of an interdisciplinary team that created a machine learning application fo
 **Montgomery County Crime Database**  
 Led a team of four other students that designed and constructed a database utilizing data from the Montgomery County Crime Database. Used prior Python knowledge and abilities to clean and narrow down usable data. After identifying important attributes and applicable records, an Entity Relationship Diagram (ERD) was developed in MySQL Workbench. From there, various views and queries were created in order to identify patterns within the data chosen to populate the database. Final deliverables presented were a database report, a final ERD, a database creation script, and views and queries developed.
 
-**Airfare Data Customer Engagement Analysis Project**  
+**Airfare Data Customer Engagement Analysis**  
 Part of a cross‐functional team that collaborated with customer, Airfare Pouch, to increase customer engagement, retention, and conversion. Utilized Python to clean, sort, and analyze data sets from Google Analytics, Meta Business Suite, and Shopify, to establish recommendations for efficiencies and improvements. Used data cleaning techniques to find and remove unfinished/missing entries. Created heat maps to identify common customer demographics. Used Natural Language Processing to identify common positive correlations in the Airfare website pages. Created Linear Regression Models with various variables to identify independent and dependent variables common amongst the data rates.
 
 ### Internship & Work Experience
@@ -48,7 +48,7 @@ Tasked with designing and running team-building activities/workshops to meet the
 **University of Maryland Golf Course – Golf Coach (May 2024–May 2025)**  
 Partnered with colleagues to run PGA Jr. League Golf program. Devised various practice activities and exercises for engagement and to hone program participants’ skills.
 
-**Flexus Programming Board – Program Leader (Aug 2022–June 2022)**  
+**Flexus Programming Board – Program Leader (Aug 2022–June 2023)**  
 Worked alongside five other student leaders to brainstorm and hold events each month for students a part of the Flexus and Virtus Living Learning Community. Developed various soft skills to facilitate successful events.
 
 **Terrapin Adventures, LLC – Guide (June 2019–Jan 2025)**  
