@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  # name   : "Ashleigh Louie"
-  # avatar : "/assets/images/DSC08038.jpg"
+  name   : "Ashleigh Louie"
+  avatar : "/assets/images/DSC08038.jpg"
   bio    : "I am a Senior Information Science student with a concentration in Cybersecurity at the University of Maryland."
   links:
 #    - label: "Website"
