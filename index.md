@@ -5,7 +5,7 @@
 layout: single 
 author_profile: true
 ---
-
+### B.S. Information Science
 ### Education
 **University of Maryland, College of Information**  
 B.S. Information Science, Cybersecurity  
