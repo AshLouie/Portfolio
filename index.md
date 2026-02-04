@@ -5,7 +5,6 @@
 layout: single 
 author_profile: true
 ---
-## Information Scientist, Cybersecurity
 
 ### Education
 **University of Maryland, College of Information**  
