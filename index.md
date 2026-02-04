@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 
-### Education
+## Education
 **University of Maryland, College of Information**  
 B.S. Information Science, Cybersecurity  
 Department GPA: 3.82  
@@ -23,12 +23,12 @@ Anticipated Graduation: May 2026
 - INST327: Datacase Design and Modeling  
 - INST326: Object-Oriented Programming  
 
-### Skills
+## Skills
 **Languages:** Python, R, SQL, MATLAB, C++  
 **Software:** MySQL Workbench, RStudio, Microsoft Office, AutoCAD, Inventor, Fusion360  
 **Business Process Re-Engineering:** Lean Six Sigma, DMAIC, Agile  
 
-### Technical Projects
+## Technical Projects
 **Capital i Improving Pricing Process for Client Contracts**  
 Part of an interdisciplinary team that created a machine learning application for client contract pricing for customer, Capital i LLC. Conducted informational interviews and research to understand current processes, challenges, and C-suite needs. Completed data pre-processing of tens of thousands of lines of information. Used ECRI, a database of medical equipment information, to create pricing markers. Identified neural network as preferred approach to developing a minimum viable product (MVP) due to its scalability and performance for project needs. Trained model using historical data to make accurate predictions using user-inputted variables. Final Deliverables included Final Results technical paper, MVP tool, and creation of process artifacts (e.g., status/milestone presentations, process flow diagrams, plotted results, etc.).
 
@@ -38,7 +38,7 @@ Led a team of four other students that designed and constructed a database utili
 **Airfare Data Customer Engagement Analysis**  
 Part of a cross‐functional team that collaborated with customer, Airfare Pouch, to increase customer engagement, retention, and conversion. Utilized Python to clean, sort, and analyze data sets from Google Analytics, Meta Business Suite, and Shopify, to establish recommendations for efficiencies and improvements. Used data cleaning techniques to find and remove unfinished/missing entries. Created heat maps to identify common customer demographics. Used Natural Language Processing to identify common positive correlations in the Airfare website pages. Created Linear Regression Models with various variables to identify independent and dependent variables common amongst the data rates.
 
-### Internship & Work Experience
+## Internship & Work Experience
 **Lavner Education – Intern/Instructor (May–Aug 2025)**  
 Delivered quality, educational instruction to students in a one-on-one environment across multiple STEM disciplines. Further developed programming capabilities and understanding while gaining meaningful STEM teaching and leadership experience.
 
